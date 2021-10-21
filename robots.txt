@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://gachbongcodien.pages.dev/sitemap.xml
+Sitemap: https://cementtile.cn/sitemap.xml
